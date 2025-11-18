@@ -113,7 +113,7 @@
     "chalk": "^4",
     "chokidar": "^3",
     "fs-extra": "^9",
-    "glob": "^11.0.3",
+    "glob": "^11.1.0",
     "minimatch": "10.0.3",
     "p-limit": "^3",
     "semver": "^7.7.2",
